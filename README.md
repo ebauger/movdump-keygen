@@ -1,3 +1,5 @@
+movdump can repair and fix broken or damaged video files (MOV, MP4, 3GP, M4V) that do not play in your media player.
+
 # movdump-keygen
 
 + http://forum.xda-developers.com/showpost.php?p=49016731&postcount=321
